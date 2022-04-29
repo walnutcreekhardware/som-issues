@@ -1,3 +1,3 @@
-# som-issues
+# Special Order Manager Issues
 
-Special Order Manager Issues
+Issue tracker for Special Order Manager
